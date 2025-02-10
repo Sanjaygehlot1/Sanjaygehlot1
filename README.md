@@ -1,4 +1,4 @@
-# Hey there! I'm [Your Name] 👋
+# Hey there! I'm Sanjay 👋
 
 🚀 **Full Stack Developer | MERN & Next.js Enthusiast**  
 💻 **Building sleek UIs & powerful backends, one line of code at a time.**  
