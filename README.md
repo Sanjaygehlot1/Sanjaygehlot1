@@ -39,7 +39,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjaygehlot1&show_icons=true&theme=dark)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sanjaygehlot1&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaygehlot1&layout=compact&theme=dark)
 
@@ -49,7 +48,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:your-email)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat)](your-discord-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](ss)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:sanjaygehlot1695@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/users/sanjay03963)
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?logo=twitter&logoColor=white&style=flat)](your-twitter-url)
