@@ -39,11 +39,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjaygehlot1&show_icons=true&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sanjaygehlot1&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaygehlot1&layout=compact&theme=dark)
 
-![Contributions](https://komarev.com/ghpvc/?username=your-username&label=Total+Contributions&color=green)
+![Contributions](https://komarev.com/ghpvc/?username=Sanjaygehlot1&label=Total+Contributions&color=green)
 
 ---
 
