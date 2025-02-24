@@ -54,7 +54,6 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](ss)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/sanjay-gehlot-62b7a0301)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:sanjaygehlot1695@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/users/sanjay03963)
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?logo=twitter&logoColor=white&style=flat)](your-twitter-url)
