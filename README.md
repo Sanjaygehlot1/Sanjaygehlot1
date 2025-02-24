@@ -1,8 +1,7 @@
 # Hey there! I'm Sanjay 👋
 
 🚀 **Full Stack Developer | MERN & Next.js Enthusiast**  
-💻 **Building sleek UIs & powerful backends, one line of code at a time.**  
-📌 **Currently working on ProCV**, a resume builder to help users create professional resumes effortlessly.  
+💻 **Building sleek UIs & powerful backends, one line of code at a time.**   
 📚 **Currently exploring Next.js** to enhance my full-stack development skills!  
 
 ---
