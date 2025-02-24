@@ -35,7 +35,7 @@
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
 
-### **Lanuages I know:**
+### **Languages I know:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
