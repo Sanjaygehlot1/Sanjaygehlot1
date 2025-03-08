@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | MERN & Next.js Enthusiast**  
 💻 **Building sleek UIs & powerful backends, one line of code at a time.**   
-📚 **Currently exploring Next.js** to enhance my full-stack development skills!  
+📚 **Currently diving into DSA to boost my problem solving skills.**
 
 ---
 
